@@ -9,12 +9,5 @@ See the 80s monitor configuration live in your browser:
 
 🖼️ 1980s Text Blueprint Layout
 
-text
- ______   _         ______   _______  
-|  ____| | |       |  __  | |  ___  | 
-| |__    | |       | |  | | | |___| | 
-|  __|   | |       | |  | | |  _____| 
-| |      | |_____  | |__| | | |       
-|_|      |_______| |______| |_|       
+<img width="554" height="359" alt="image" src="https://github.com/user-attachments/assets/b68d350c-2a16-4dce-b4b2-9352874d06da" />
 
-   [$FLOP is food for your AI agent.]
